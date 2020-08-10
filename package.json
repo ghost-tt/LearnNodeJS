@@ -1,0 +1,26 @@
+{
+  "name": "node-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "notes-app/app.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghost-tt/LearnNodeJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ghost-tt/LearnNodeJS/issues"
+  },
+  "homepage": "https://github.com/ghost-tt/LearnNodeJS#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "nodemon": "^2.0.4",
+    "validator": "^13.1.1",
+    "yargs": "^15.4.1"
+  }
+}
